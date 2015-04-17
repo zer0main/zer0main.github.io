@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'Pavel Dolgov'
+tagline:          'Homepage'
+description:      'zer0main''s homepage.'
+url:              https://keybase.io/zer0main
+baseurl:          /
+
+author:
+  name:           'Pavel Dolgov'
+  url:            https://twitter.com/pdolgov99
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/zer0main/zer0main.github.io
