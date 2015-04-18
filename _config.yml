@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            'Pavel Dolgov'
 tagline:          'Homepage'
-description:      'zer0main''s homepage.'
+description:      'Homepage of (<a href="https://keybase.io/zer0main">zer0main</a>')
 url:              https://keybase.io/zer0main
 baseurl:          /
 
