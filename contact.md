@@ -5,6 +5,7 @@ title: Contact points
 
  * Name: Pavel Dolgov
  * E-mail: [pdolgov99@gmail.com][mail]
+ * PGP key: [73E9 DE77 4F15 645C](/key.asc)
  * GitHub: [zer0main][github]
  * Bitbucket: [zer0main][bitbucket]
  * Habrahabr: [zer0main][habr]
