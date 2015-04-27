@@ -4,7 +4,5 @@ title: Test
 ---
 
 Test.
-<!-- read more -->
-<a name="cut" id="cut"></a>
 
-Everything works!
+Verify that everything works!
