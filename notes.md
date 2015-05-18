@@ -9,8 +9,7 @@ title: Notes
  - Boost (only start)
  - Wt, a C++ Web Toolkit
 
-### Things that I need to learn in the not too distant
-    future:
+### Things that I need to learn in the not too distant future:
 
  - Haskell
  - ...
