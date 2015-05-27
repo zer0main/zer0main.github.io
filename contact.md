@@ -15,6 +15,7 @@ title: Contact points
  * Toster: [zer0main][toster]
  * Keybase: [zer0main][keybase]
  * Twitter: [pdolgov99][twitter]
+ * Disqus: [zer0main][disqus]
 
 [mail]: mailto:pdolgov99@gmail.com
 [bitcoin]: https://blockchain.info/address/1JVsaCBcZhgHTcqkEw9QPqkVVy9rpE3mpD
@@ -26,3 +27,4 @@ title: Contact points
 [toster]: http://toster.ru/user/zer0main
 [keybase]: https://keybase.io/zer0main
 [twitter]: https://twitter.com/pdolgov99
+[disqus]: https://disqus.com/zer0main
