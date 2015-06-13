@@ -9,6 +9,7 @@ title: Contact points
  * PGP key: [73E9 DE77 4F15 645C](/key.asc)
  * GitHub: [zer0main][github]
  * Bitbucket: [zer0main][bitbucket]
+ * Codeforces: [zer0main][codeforces]
  * Habrahabr: [zer0main][habr]
  * Geektimes: [zer0main][geektimes]
  * Megamozg: [zer0main][megamozg]
@@ -21,6 +22,7 @@ title: Contact points
 [bitcoin]: https://blockchain.info/address/1JVsaCBcZhgHTcqkEw9QPqkVVy9rpE3mpD
 [github]: https://github.com/zer0main
 [bitbucket]: https://bitbucket.org/zer0main
+[codeforces]: https://codeforces.com/profile/zer0main
 [habr]: http://habrahabr.ru/users/zer0main
 [geektimes]: http://geektimes.ru/users/zer0main
 [megamozg]: http:///megamozg.ru/users/zer0main
