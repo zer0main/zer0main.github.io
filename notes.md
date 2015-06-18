@@ -14,3 +14,5 @@ title: Notes
  - Haskell
  - Basics of cryptography
  - ...
+
+Tomorrow (June 19, 2015) I'll start to learn all this things.
