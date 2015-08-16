@@ -18,4 +18,4 @@ title: Notes
 
 Tomorrow (June 19, 2015) I'll start to learn all this things.
 
-[algo]: http://e-maxx.ru/upload/e-maxx_algo.pdf
+[algo]: http://e-maxx.ru/algo
