@@ -5,7 +5,7 @@ title: Notes
 
 ### Things that I need to learn in the near future:
 
- - Unit testing
+ - ~~Unit testing~~
  - Boost (only start)
  - Wt, a C++ Web Toolkit
 
