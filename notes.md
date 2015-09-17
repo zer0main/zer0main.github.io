@@ -11,7 +11,7 @@ title: Notes
 
 ### Things that I need to learn in the not too distant future:
 
- - Haskell
+ - <del>Haskell</del>
  - Basics of cryptography
  - [Algorithms][algo]
  - ...
