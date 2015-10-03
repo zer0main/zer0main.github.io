@@ -18,4 +18,8 @@ title: Notes
 
 Tomorrow (June 19, 2015) I'll start to learn all this things.
 
+### Preparing for the Programming Contest
+
+Use `#include <bits/stdc++.h>`
+
 [algo]: http://e-maxx.ru/algo
