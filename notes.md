@@ -6,7 +6,7 @@ title: Notes
 ### Things that I need to learn in the near future:
 
  - <del>Unit testing</del>
- - Boost (only start)
+ - <del>Boost (only start)</del>
  - Wt, a C++ Web Toolkit
 
 ### Things that I need to learn in the not too distant future:
