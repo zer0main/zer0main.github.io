@@ -8,6 +8,7 @@ title: Notes
  - <del>Unit testing</del>
  - <del>Boost (only start)</del>
  - Wt, a C++ Web Toolkit
+ - Computational geometry
 
 ### Things that I need to learn in the not too distant future:
 
