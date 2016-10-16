@@ -24,8 +24,12 @@ Tomorrow (June 19, 2015) I'll start to learn all this things.
 Use `#include <bits/stdc++.h>`
 
 The fastest way of I/O with files:
-`freopen("in.txt", "r", stdin);`
-`freopen("out.txt", "w", stdout);`
+
+```c
+freopen("in.txt", "r", stdin);
+freopen("out.txt", "w", stdout);
+```
+
 Will redirect stdin, stdout to "in.txt" and "out.txt" files, respectively.
 
 [algo]: http://e-maxx.ru/algo
