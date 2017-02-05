@@ -7,8 +7,10 @@ title: Notes
 
  - <del>Unit testing</del>
  - <del>Boost (only start)</del>
- - Wt, a C++ Web Toolkit
- - Computational geometry
+ - <del>Wt, a C++ Web Toolkit</del>
+ - <del>Computational geometry</del>
+ - Nginx
+ - Go
 
 ### Things that I need to learn in the not too distant future:
 
