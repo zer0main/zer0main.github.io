@@ -9,13 +9,13 @@ title: Notes
  - <del>Boost (only start)</del>
  - <del>Wt, a C++ Web Toolkit</del>
  - <del>Computational geometry</del>
+ - <del>Go</del>
  - Nginx
- - Go
 
 ### Things that I need to learn in the not too distant future:
 
  - <del>Haskell</del>
- - Basics of cryptography
+ - <del>Basics of cryptography</del>
  - [Algorithms][algo]
  - ...
 
