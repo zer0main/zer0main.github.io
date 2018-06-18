@@ -1,13 +1,11 @@
 # Permalinks
-permalink:           pretty
-relative_permalinks: false
+permalink:        pretty
 
 # Setup
 title:            'Pavel Dolgov'
 tagline:          'Homepage'
 description:      'Homepage of <a href="https://keybase.io/zer0main">zer0main</a>'
 url:              https://keybase.io/zer0main
-baseurl:          /
 
 author:
   name:           'Pavel Dolgov'
@@ -15,13 +13,12 @@ author:
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
+version:          3.4.3
 
 github:
   repo:           https://github.com/zer0main/zer0main.github.io
   author:         https://github.com/zer0main
 
 gems:
-    - jekyll-paginate
-    - jekyll-sitemap
+                  - jekyll-paginate
+                  - jekyll-sitemap
