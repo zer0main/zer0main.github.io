@@ -11,6 +11,7 @@ Code coming alive.
 I know these programming languages: C, C++, Python, Lua,
 Go, Haskell. I am an advanced Linux user.
 I graduated from [The Moscow School of Programming (Yandex branch)][mshp-link].
+You can find my recent CV [here](/Pavel_Dolgov_CV.pdf).
 
 My goal is to write The Perfect Code.
 
